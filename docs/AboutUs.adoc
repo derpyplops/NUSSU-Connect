@@ -34,7 +34,7 @@ Responsibilities: Login System
 image::jonathan.png[width="150", align="left"]
 {empty}[http://github.com/derpyplops[github]] [<<johndoe#, portfolio>>]
 
-Role: Developer +
+Role: Developer, Team Lead +
 Responsibilities: HR & Roles
 
 '''
